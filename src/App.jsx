@@ -9,9 +9,9 @@ import Navbar from "./components/layout/Navbar";
 
 // Import the Page components (These will be built by Persons 3, 4, and 5)
 // Note: You will need to create these files (even as empty shells) for the app to run!
-import Landing from "./pages/Landing";
-import Onboarding from "./pages/Onboarding";
-import Dashboard from "./pages/Dashboard";
+import Landing from "./pages/Landing.jsx";
+import Onboarding from "./pages/Onboarding.jsx";
+import Dashboard from "./pages/Dashboard.jsx";
 
 export default function App() {
   // 'landing' is the default view when the site loads
